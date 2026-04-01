@@ -55,7 +55,7 @@ export default function Hero() {
                 <ArrowRight className="w-5 h-5" />
               </motion.a>
               <motion.a
-                href="https://wa.me/919999999999?text=Hi%2C%20I%20need%20guidance%20for%20NEET%20admission"
+                href="https://wa.me/919315878181?text=Hi%2C%20I%20need%20guidance%20for%20NEET%20admission"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.03 }}

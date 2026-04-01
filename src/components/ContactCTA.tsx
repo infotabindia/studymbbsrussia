@@ -41,7 +41,7 @@ export default function ContactCTA() {
 
             <div className="mt-8 space-y-4">
               <a
-                href="https://wa.me/919999999999?text=Hi%2C%20I%20need%20guidance%20for%20NEET%20admission"
+                href="https://wa.me/919315878181?text=Hi%2C%20I%20need%20guidance%20for%20NEET%20admission"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 bg-white/10 backdrop-blur-sm rounded-xl p-4 hover:bg-white/20 transition-colors group"
@@ -59,7 +59,7 @@ export default function ContactCTA() {
                 </div>
               </a>
               <a
-                href="tel:+919999999999"
+                href="tel:+919315878181"
                 className="flex items-center gap-4 bg-white/10 backdrop-blur-sm rounded-xl p-4 hover:bg-white/20 transition-colors group"
               >
                 <div className="w-12 h-12 bg-blue-400/20 rounded-full flex items-center justify-center">
@@ -70,7 +70,7 @@ export default function ContactCTA() {
                     Call Us Directly
                   </div>
                   <div className="text-blue-200 text-sm">
-                    +91 99999 99999
+                    +91 93158 78181
                   </div>
                 </div>
               </a>

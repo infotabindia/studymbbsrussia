@@ -49,7 +49,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm">
-              <li>+91 99999 99999</li>
+              <li>+91 93158 78181</li>
               <li>info@studymbbsrussia.com</li>
               <li>Mon-Sat: 9 AM - 7 PM IST</li>
             </ul>
